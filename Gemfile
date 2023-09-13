@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
+gem "jekyll-remote-theme"
 
-gem "beautiful-jekyll-theme", "6.0.1"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 group :jekyll_plugins do
