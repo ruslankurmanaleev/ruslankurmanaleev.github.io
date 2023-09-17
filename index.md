@@ -115,6 +115,6 @@ date:   2023-09-12 17:20:08 +0300
 
 ---
 <center>
-  <img src="assets/photo.png" title="Руслан Курманаллев" width="400"/><br>
+  <img src="assets/img/photo.png" title="Руслан Курманаллев" width="400"/><br>
   Фото Руслан Курманалеев
 </center>

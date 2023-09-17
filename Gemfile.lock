@@ -31,20 +31,15 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-archives (2.2.1)
-      jekyll (>= 3.6, < 5.0)
-    jekyll-feed (0.17.0)
+    jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
-    jekyll-sitemap (1.4.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.2)
+    kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -62,15 +57,8 @@ GEM
     rexml (3.2.6)
     rouge (4.1.3)
     safe_yaml (1.0.5)
-    sass-embedded (1.66.1-arm64-darwin)
+    sass-embedded (1.67.0-arm64-darwin)
       google-protobuf (~> 3.23)
-    steve-for-jekyll (1.2.3)
-      jekyll (~> 4.3)
-      jekyll-archives (~> 2.2)
-      jekyll-feed (~> 0.17)
-      jekyll-paginate (~> 1.1)
-      jekyll-seo-tag (~> 2.8)
-      jekyll-sitemap (~> 1.4)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     unicode-display_width (2.4.2)
@@ -84,7 +72,6 @@ DEPENDENCIES
   jekyll (~> 4.3.2)
   jekyll-feed
   jekyll-seo-tag
-  steve-for-jekyll
 
 BUNDLED WITH
    2.4.12
