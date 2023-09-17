@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
-gem "jekyll-remote-theme"
+gem "steve-for-jekyll"
 
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 

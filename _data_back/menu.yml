@@ -1,0 +1,5 @@
+- title: "About this site" # The item title
+  url: "/about/" # The item URL or path
+  external: true # Optional, if the link points to an external resource.
+  color: "#336699" # Only on `_data/menu.yml`, the background color of this menu item.
+  icon: "<svg ...>" # Only on `_data/social.yml`, the SVG icon markup for this item -- get one in <https://simpleicons.org>
