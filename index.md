@@ -106,14 +106,14 @@ date:   2023-09-19 00:00:00 +0300
 
 ## <div style="text-align: center; margin-bottom: 10px;">Следить за мной в соц сетях</div>
 
-- [Вконтакте](https://vk.com/id2507076)
+- [Вконтакте](https://vk.com/ruslankurmanaleev)
 
-[comment]: <> (- [Телеграм-канал]&#40;https://vk.com/id2507076&#41;)
+[comment]: <> (- [Телеграм-канал]&#40;https://t.me/ruslankurmanaleev&#41;)
 
 ## <div style="text-align: center; margin-bottom: 10px;">Связаться со мной</div>
 
-- [Написать мне в Телеграм](https://t.me/rumlarc)
-- [Написать мне в Вконтакте](https://vk.com/id2507076)
+- [Написать мне в Телеграм](https://t.me/ruslankurmanaleev)
+- [Написать мне в Вконтакте](https://vk.com/ruslankurmanaleev)
 
 ## <div style="text-align: center; margin-bottom: 10px;">Бонус</div>
 
