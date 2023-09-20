@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, follow">
+  <link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}" />
+
+  <body class="{{ page.layout | prepend: 'layout-' }}">
+    {% include header.html %}
+
+    <main class="container">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+    {% if content contains "iframe" %}
+      <script src="{% link assets/js/responsive-videos.js %}"></script>
+    {% endif %}
+  </body>
+</html>

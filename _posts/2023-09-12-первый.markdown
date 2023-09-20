@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no_index_page
 title:  "Коуч для айти-специалистов Руслан Курманалеев"
 date:   2023-09-12 17:20:08 +0300
 metatags: noindex, follow
